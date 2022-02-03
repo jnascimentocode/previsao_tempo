@@ -1,15 +1,15 @@
 # Projeto de Previsão do Tempo
 
 ## Linguagem
-Python versão 3.10.0
+-Python versão 3.10.0
 
 ## IDE
-VsCode com Python
+-VsCode com Python
 
 ## Bibliotecas utilizadas
-geopy==2.2.0
-PySimpleGUI==4.56.0
-requests==2.26.0
+-geopy==2.2.0
+-PySimpleGUI==4.56.0
+-requests==2.26.0
 
 ## Escopo 
 
